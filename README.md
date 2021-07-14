@@ -23,11 +23,13 @@ After a time firebase anonymous user data will be deleted
 ## Installation
 
 Clone the repository and execute.
-sh
+```
 npm i
+```
 `Make sure the firebase.js file has your firebase credentials`
 
 after execute
-sh
+```
 npm start
+```
 and it will deploy at `port:3000`
