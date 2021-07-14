@@ -35,7 +35,6 @@ export const AddUser = (id: string) => {
         id
     })
         .then(() => {
-            console.log("Document successfully written!");
         })
         .catch((error) => {
             console.error("Error writing document: ", error);
@@ -51,7 +50,6 @@ export const AddList = (list: List, uid: string) => {
 
     })
         .then(() => {
-            console.log("Document successfully written!");
         })
         .catch((error) => {
             console.error("Error writing document: ", error);
