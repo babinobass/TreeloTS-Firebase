@@ -5,11 +5,7 @@ import App from './App'
 import { DndProvider } from "react-dnd"
 import { HTML5Backend as Backend } from 'react-dnd-html5-backend'
 import { AppStateProvider } from "./AppStateContext"
-import * as dotenv from 'dotenv'
-dotenv.config({path: "/.env"})
-
-
-
+require('dotenv').config()
 
 
 ReactDOM.render(
