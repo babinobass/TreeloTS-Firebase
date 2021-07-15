@@ -3,11 +3,11 @@
 ##### https://trello-ts-firebase.vercel.app/
 
 ## About the application
-A simple Trello clon that i build with the objetive of learning TypeScript and other technologies
-This is built with React, TypeScript, Styled-components and connected to firebase
-The first time that a visit is recieved, a new anonymous user is created using firebase (`you can know more here: https://firebase.google.com/docs/auth/web/anonymous-auth`)
-After that, we can start to create information that will be saved in firestore, from there we will obtain the information that will be displayed on screen
-After a time firebase anonymous user data will be deleted
+A simple Trello clon that i build with the objetive of learning TypeScript and other technologies<br/>
+This is built with React, TypeScript, Styled-components and connected to firebase<br/>
+The first time that a visit is recieved, a new anonymous user is created using firebase (`you can know more here: https://firebase.google.com/docs/auth/web/anonymous-auth`)<br/>
+After that, we can start to create information that will be saved in firestore, from there we will obtain the information that will be displayed on screen<br/>
+After a time firebase anonymous user data will be deleted<br/>
 
 ## Technologies
 | Tech | url |
