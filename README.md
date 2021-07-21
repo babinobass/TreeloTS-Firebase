@@ -17,6 +17,7 @@ After a time firebase anonymous user data will be deleted<br/>
 | Styled-components | https://styled-components.com/ |
 | Firebase | https://firebase.google.com/ |
 | react-dnd-html5-backend | https://www.npmjs.com/package/react-dnd-html5-backend |
+| Docker | https://www.docker.com/ |
 | Vercel | https://vercel.com/ |
 | GitHub | https://github.com/ |
 
