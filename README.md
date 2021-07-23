@@ -37,7 +37,7 @@ and it will deploy at `port:3000`
 
 ## Docker :whale:
 
-in the file where the repo was cloned, execute the next command
+In the file where the repo was cloned, execute the next command
 
 ```
 docker build -t challenger:dev .
