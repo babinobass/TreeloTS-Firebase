@@ -34,3 +34,17 @@ after execute
 npm start
 ```
 and it will deploy at `port:3000`
+
+## Docker :whale:
+
+in the file where the repo was cloned, execute the next command
+
+```
+docker build -t challenger:dev .
+```
+to create the image and then
+```
+docker run --publish 5000:3000 challenger:dev
+```
+for execute it
+- should be able to see it on http://localhost:5000/
