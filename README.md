@@ -40,11 +40,11 @@ and it will deploy at `port:3000`
 In the file where the repo was cloned, execute the next command
 
 ```
-docker build -t challenger:dev .
+docker build -t trello:dev .
 ```
 to create the image and then
 ```
-docker run --publish 5000:3000 challenger:dev
+docker run --publish 5000:3000 trello:dev
 ```
 for execute it
 - should be able to see it on http://localhost:5000/
